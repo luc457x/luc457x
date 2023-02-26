@@ -2,7 +2,7 @@
 - 👀 I’m interested in python, linux, games and blockchain tech...
 - 🌱 I’m currently learning python and linux shell.
 - 💞️ I’m looking to collaborate on anything related to game design, data analytics or linux shell.
-- 📫 lucas7eixeir4@outlook.com
+- 📫 contato@lucas7x.win
 
 <!---
 luc457x/luc457x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
