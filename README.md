@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @luc457x
+- 👋 Hi, I’m lucas.
 - 👀 I’m interested in python, linux, games and blockchain tech...
 - 🌱 I’m currently learning python and linux shell.
 - 💞️ I’m looking to collaborate on anything related to game design, data analytics or linux shell.
