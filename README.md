@@ -1,4 +1,4 @@
-<table style="text-align: center">
+<table align:"center">
 <div>
    <a href="https://github.com/luc457x">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luc457x&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/><br>
