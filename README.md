@@ -22,13 +22,11 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <div text-align: left>
-        - 👋 Hi, I’m lucas.<br>
-        - 👀 I’m interested in data science, linux, blockchain and games.<br>
-        - 🌱 I’m currently learning linux.<br>
-        - 💞️ I’m looking to collaborate on anything related to game design, data analytics or linux.
-      </div>
+    <td align="left">
+      - 👋 Hi, I’m lucas.<br>
+      - 👀 I’m interested in data science, linux, blockchain and games.<br>
+      - 🌱 I’m currently learning linux.<br>
+      - 💞️ I’m looking to collaborate on anything related to game design, data analytics or linux.
     </td>
   </tr>
   <tr>
