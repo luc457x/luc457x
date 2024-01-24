@@ -1,4 +1,4 @@
-<div style="text-align: center">
+<table style="text-align: center">
 <div>
    <a href="https://github.com/luc457x">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luc457x&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/><br>
@@ -32,7 +32,7 @@
   <a href = "mailto:contato@lucas7x.win"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-de-paula-teixeira-24148a177/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-</div>
+</table>
 
 <!---
 luc457x/luc457x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
