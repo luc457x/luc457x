@@ -29,9 +29,9 @@
       - 💞️ I’m looking to collaborate on anything related to game design, data analytics or linux.
     </td>
   </tr>
-  ## You can find me on:
   <tr>
-    <td align="center">
+    <td align="left">
+      You can find me on:
       <a href="https://www.youtube.com/@lucasteixeira6936" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
       <a href="https://instagram.com/1uc457x/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
       <a href="https://discord.gg/eYHSWywsQr" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
