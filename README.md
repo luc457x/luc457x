@@ -1,7 +1,7 @@
 <div>
    <a href="https://github.com/luc457x">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luc457x&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/><br>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc457x&layout=compact&langs_count=6&theme=chartreuse-dark&card_width=500px"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luc457x&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&card_width=300px"/><br>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc457x&layout=compact&langs_count=6&theme=chartreuse-dark&card_width=300px"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -14,8 +14,6 @@
   <img align="center" alt="Jupyter" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Sqlite" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
   <img align="center" alt="Arduino" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
-  <img align="center" alt="Blender" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg">
-  <img align="center" alt="Gimp" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg">
 </div>
 <br>
 <div>
