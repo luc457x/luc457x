@@ -1,8 +1,3 @@
-- 👋 Hi, I’m lucas.
-- 👀 I’m interested in python, linux, blockchain and games...
-- 🌱 I’m currently learning linux and python.
-- 💞️ I’m looking to collaborate on anything related to game design, data analytics or linux.
-
  <div>
    <a href="https://github.com/luc457x">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luc457x&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -16,8 +11,12 @@
 </div>
  
 <br>
- 
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+ - 👋 Hi, I’m lucas.
+- 👀 I’m interested in python, linux, blockchain and games...
+- 🌱 I’m currently learning linux and python.
+- 💞️ I’m looking to collaborate on anything related to game design, data analytics or linux.
+
+### You can find me on:
  
 <div> 
   <a href="https://www.youtube.com/@lucasteixeira6936" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
