@@ -1,7 +1,6 @@
- <div>
+<div>
    <a href="https://github.com/luc457x">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luc457x&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <br>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc457x&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
@@ -11,14 +10,12 @@
 </div>
 <br>
 <div>
-- 👋 Hi, I’m lucas.
- <br>
-- 👀 I’m interested in python, linux, blockchain and games...
- <br>
+- 👋 Hi, I’m lucas.<br>
+- 👀 I’m interested in python, linux, blockchain and games...<br>
 - 🌱 I’m currently learning linux and python.<br>
 - 💞️ I’m looking to collaborate on anything related to game design, data analytics or linux.
 </div>
-<br>
+
 ### You can find me on:
 <div>
   <a href="https://www.youtube.com/@lucasteixeira6936" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
