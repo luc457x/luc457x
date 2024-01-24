@@ -11,7 +11,7 @@
 </div>
  
 <br>
- - 👋 Hi, I’m lucas.
+- 👋 Hi, I’m lucas.
 - 👀 I’m interested in python, linux, blockchain and games...
 - 🌱 I’m currently learning linux and python.
 - 💞️ I’m looking to collaborate on anything related to game design, data analytics or linux.
