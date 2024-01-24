@@ -1,8 +1,7 @@
 - 👋 Hi, I’m lucas.
-- 👀 I’m interested in python, linux, games and blockchain tech...
-- 🌱 I’m currently learning python and linux shell.
-- 💞️ I’m looking to collaborate on anything related to game design, data analytics or linux shell.
-- 📫 contato@lucas7x.win
+- 👀 I’m interested in python, linux, blockchain and games...
+- 🌱 I’m currently learning linux and python.
+- 💞️ I’m looking to collaborate on anything related to game design, data analytics or linux.
 
  <div>
    <a href="https://github.com/luc457x">
