@@ -19,6 +19,8 @@
       <img align="center" alt="Jupyter" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
       <img align="center" alt="Sqlite" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
       <img align="center" alt="Arduino" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+      <img align="center" alt="Blender" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg">
+      <img align="center" alt="Gimp" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg">
     </td>
   </tr>
   <tr>
