@@ -1,20 +1,20 @@
 <table align="center">
   <tr>
-    
+    <td align="center">
+      <img alt="Linux" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+      <img alt="Docker" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+      <img alt="C++" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+      <img alt="Rust" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
+      <img alt="Python" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+      <img alt="PostgreSQL" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+      <img alt="Jupyter" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+    </td>
   </tr>
   <tr>
     <td align="center">
-      <p>
-        <img alt="Python" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-        <img alt="Sql" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-        <img alt="Jupyter" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-        <img alt="HTML" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-        <img alt="CSS" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-        <img alt="Linux" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-        <img alt="Docker" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-      </p>
+      <img src="https://ghstats.dev/api/card?username=luc457x&theme=forest&hide_border=true&border_radius=20" alt="GitHub Stats Card" />
+      <img src="https://ghstats.dev/api/langs?username=luc457x&theme=forest&hide_border=true&border_radius=20&max_langs=12" alt="Top Languages" />
     </td>
-  </tr>
   <tr>
     <td align="center">
       <h2>You can find me on:</h2>
