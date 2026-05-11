@@ -1,6 +1,13 @@
 <table align="center">
   <tr>
     <td align="center">
+      <a href="https://www.linkedin.com/in/lucas-de-paula-teixeira-24148a177/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+      <a href ="mailto:contato@lucas7x.win"><img src="https://img.shields.io/badge/E-Mail-%23333?style=for-the-badge&logo=e-mail&logoColor=white" target="_blank"></a>
+      <a href="https://discord.gg/eYHSWywsQr" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <img alt="Linux" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
       <img alt="Docker" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
       <img alt="Python" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -18,14 +25,7 @@
       <img src="https://ghstats.dev/api/card?username=luc457x&theme=forest&hide_border=true&border_radius=20" alt="GitHub Stats Card" />
       <img src="https://ghstats.dev/api/langs?username=luc457x&theme=forest&hide_border=true&border_radius=20&max_langs=12" alt="Top Languages" />
     </td>
-  <tr>
-    <td align="center">
-      <h2>Contact me on:</h2>
-      <a href="https://www.linkedin.com/in/lucas-de-paula-teixeira-24148a177/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-      <a href ="mailto:contato@lucas7x.win"><img src="https://img.shields.io/badge/E-Mail-%23333?style=for-the-badge&logo=e-mail&logoColor=white" target="_blank"></a>
-      <a href="https://discord.gg/eYHSWywsQr" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-    </td>
-  </tr>
+  </tr
 </table>
 
 <!---
